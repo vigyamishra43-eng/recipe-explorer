@@ -57,15 +57,16 @@ recipe-explorer/
 * package.json
 
 ---
+## Screenshots
+
 ### Login Page
-Shows user authentication with email and password.
+<img src="./public/assets/login.png" width="700">
 
 ### Dashboard
-Displays all recipes with options to view, like, and delete.
+<img src="./public/assets/dashboard.png" width="700">
 
 ### Create Recipe
-Allows users to add new recipes with image, ingredients, and prep time.
-
+<img src="./public/assets/create_recipe.png" width="700">
 ## Setup Instructions
 
 1. Clone the repository
